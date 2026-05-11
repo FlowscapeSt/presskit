@@ -1,0 +1,15 @@
+# OS & editor metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp / draft files
+*.tmp
+*.bak
+~$*
